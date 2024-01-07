@@ -20,4 +20,4 @@ Send the energy data to MQTT topics.
 ![Screen-1](images/IMG_4139.jpg)
 
 
-PLEASE NOTE: At the moment, this project is providing ONLY the dashboard, energy data must be sourced and send via MQTT.
+PLEASE NOTE: At the moment, this project is ONLY a guide on how to use SVG in Node-Red dashboard, energy data must be sourced and send via MQTT.
