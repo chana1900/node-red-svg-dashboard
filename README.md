@@ -6,7 +6,7 @@ This project is aimed at creating a visually appealing dashboard for electricity
 
 ## Pre-requisites
 
-1. Node-red installed
+1. Node-red 
 2. node-red-dashboard
 3. node-red-contrib-ui-svg
 
@@ -14,7 +14,7 @@ This project is aimed at creating a visually appealing dashboard for electricity
 
 Import the json file content to the new flow in Node-red.
 Edit SVG and other nodes to compatible with the available data.
-Send the energy data to MQTT endpoints.
+Send the energy data to MQTT topics.
 
 ## Screenshots
 ![Screen-1](images/IMG_4139.jpg)
