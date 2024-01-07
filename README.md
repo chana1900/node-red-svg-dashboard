@@ -2,22 +2,34 @@
 
 ## About
 
-This project is aimed at creating a visually appealing dashboard for electricity usage and generation monitoring.
+This project is dedicated to creating a visually appealing dashboard for monitoring electricity usage and generation. The goal is to provide an intuitive interface that effectively communicates power-related data.
 
 ## Pre-requisites
 
-1. Node-red 
-2. node-red-dashboard
-3. node-red-contrib-ui-svg
+Before getting started, ensure the following prerequisites are met:
+
+1. Node-Red: Install Node-Red on your system.
+2. node-red-dashboard: Install the Node-Red Dashboard plugin.
+3. node-red-contrib-ui-svg: Install the Node-Red SVG plugin.
 
 ## Method
 
-Import the json file content to the new flow in Node-red.
-Edit SVG and other nodes to compatible with the available data.
-Send the energy data to MQTT topics.
+Follow these steps to set up the project:
+
+1. Import JSON File:
+
+Import the provided JSON file content into a new flow in Node-Red. This serves as the foundation for your power monitoring dashboard.
+
+2. Edit SVG and Nodes:
+
+Customize the SVG and other nodes to align with the available data and your specific monitoring needs. This includes adjusting visual elements, layouts, and any other aspects of the dashboard.
+
+3. Send Energy Data to MQTT Topics:
+
+Ensure that energy data is sourced and sent to MQTT topics. This step is crucial for populating the dashboard with real-time data.
 
 ## Screenshots
 ![Screen-1](images/IMG_4139.jpg)
 
 
-PLEASE NOTE: At the moment, this project is ONLY a guide on how to use SVG in Node-Red dashboard, energy data must be sourced and send via MQTT.
+PLEASE NOTE: At the moment, this project serves as a comprehensive guide on integrating SVG into the Node-Red dashboard. Keep in mind that energy data must be sourced and sent via MQTT to fully utilize the capabilities of this project. Use this guide as a starting point for creating a powerful and visually engaging power monitoring solution tailored to your specific requirements.
