@@ -17,7 +17,7 @@ Edit SVG and other nodes to compatible with the available data.
 Send the energy data to MQTT endpoints.
 
 ## Screenshots
-
+![Screen-1](images/IMG_4139.jpg)
 
 
 PLEASE NOTE: At the moment, this project is providing ONLY the dashboard, energy data must be sourced and send via MQTT.
