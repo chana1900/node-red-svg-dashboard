@@ -31,5 +31,11 @@ Ensure that energy data is sourced and sent to MQTT topics. This step is crucial
 ## Screenshots
 ![Screen-1](images/IMG_4139.jpg)
 
+### Weather widgets added
+It shows Clear Sky (Sun or Moon depending on the time), Clouds (with sun or moon), Clouds only and Rain widgets based on the data recived from openweathermap.
+It also shows the temperature.
+
+![Screen-1](images/weather_widgets.png)
+
 
 PLEASE NOTE: At the moment, this project serves as a comprehensive guide on integrating SVG into the Node-Red dashboard. Keep in mind that energy data must be sourced and sent via MQTT to fully utilize the capabilities of this project. Use this guide as a starting point for creating a powerful and visually engaging power monitoring solution tailored to your specific requirements.
